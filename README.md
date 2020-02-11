@@ -1,6 +1,8 @@
 # Final Project Template
+https://mybinder.org/v2/gh/neoengineer/final-project/192d7500d5321afe573fedf082e8bed031a1203e
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neoengineer/final-project/master?urlpath=lab/tree/final-project.ipynb)
+
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
 
 This repository contains a template for final projects.
@@ -8,7 +10,7 @@ This repository contains a template for final projects.
 ## How to Use this Template
 
 ### Work in Binder
-- Launch a live notebook server with the notebook using [Binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
+- Launch a live notebook server with the notebook using [Binder](https://beta.mybinder.org/): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neoengineer/final-project/master?urlpath=lab/tree/final-project.ipynb)
 
 ### Work in Colab
 - Launch an executable version of the notebook using [Google Colab](http://colab.research.google.com): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
@@ -17,7 +19,7 @@ This repository contains a template for final projects.
 - Clone the repo using a shell (below) or [GitHub Desktop](https://desktop.github.com)
 
 ```sh
-git clone https://github.com/py4ds/final-project
+git clone https://github.com/neoengineer/final-project
 cd final-project
 jupyter lab
 ```
