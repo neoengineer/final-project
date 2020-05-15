@@ -3,10 +3,10 @@
 ## How to Explore This Project
 
 ### Work in Binder
-- Currently running in Binder is not support. The application requires a live video stream for iamge processing.
+- Currently running in Binder is not supported. The application requires a live video stream for iamge processing.
 
 ### Work in Colab
-- Currently running in Colab is not support. The application requires a live video stream for iamge processing.
+- Currently running in Colab is not supported. The application requires a live video stream for iamge processing.
 
 ### Work locally (requires local installation of [git](https://git-scm.com/) and [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html))
 - Clone the repo using a shell (below) or [GitHub Desktop](https://desktop.github.com)
@@ -17,6 +17,9 @@ cd final-project
 jupyter lab
 ```
 ## Required Hardware
+
+Jetson AGX Xavier series, Jetson TX2 series, Jetson TX1, or Jetson Nano, running Jetpack 4.3 
+https://developer.nvidia.com/jetpack-43-archive
 
 
 ## Required packages
